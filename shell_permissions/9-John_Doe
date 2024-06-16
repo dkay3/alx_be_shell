@@ -1,0 +1,3 @@
+#!/bin/bash
+chown root:root hello
+chmod u=rwx,g=rx,o=-wx hello
